@@ -1,0 +1,18 @@
+{
+  "name": "youtube-research-marketplace",
+  "owner": {
+    "name": "maxtreysi"
+  },
+  "plugins": [
+    {
+      "name": "youtube-research-agent",
+      "source": "./plugins/youtube-research-agent",
+      "description": "Профессиональный AI-ресерчер и ревьюер по YouTube: транскрипт → структурированное ревью → Q&A. На базе TranscriptAPI MCP, опционально — экспорт в Notion.",
+      "version": "0.1.0",
+      "author": {
+        "name": "maxtreysi"
+      },
+      "keywords": ["youtube", "transcript", "research", "review", "summary", "russian"]
+    }
+  ]
+}
