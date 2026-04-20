@@ -12,7 +12,15 @@
       "author": {
         "name": "maxtreysi"
       },
-      "keywords": ["youtube", "transcript", "research", "review", "summary", "russian"]
+      "icon": "./plugins/youtube-research-agent/icon.png",
+      "keywords": [
+        "youtube",
+        "transcript",
+        "research",
+        "review",
+        "summary",
+        "russian"
+      ]
     }
   ]
 }
