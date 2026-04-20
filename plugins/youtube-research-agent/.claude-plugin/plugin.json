@@ -1,0 +1,8 @@
+{
+  "name": "youtube-research-agent",
+  "version": "0.1.0",
+  "description": "Профессиональный AI-ресерчер и ревьюер по YouTube: транскрипт → структурированное ревью → Q&A. На базе TranscriptAPI MCP.",
+  "author": {"name": "maxtreysi"},
+  "keywords": ["youtube", "transcript", "research", "review", "summary", "russian"],
+  "license": "MIT"
+}
